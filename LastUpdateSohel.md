@@ -6,7 +6,7 @@
 - [ ] Working on **_Purchase Order_** Form State Management
 - [x] Navbar, Layout, Color Modification
 - [x] Modification Mockup Discussion with new **Concept**
-- [ ] Arrange **Navigation**.
+- [x] Arrange **Navigation**.
 
 ---
 
