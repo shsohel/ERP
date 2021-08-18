@@ -1,22 +1,31 @@
-## Last Update {August 17, 2021}
+## Last Update {August 18, 2021}
 
 > All Progress Task Here :
 
 - [ ] Working on **_Purchase Order_** Form UI Design
 - [ ] Working on **_Purchase Order_** Form State Management
-- [x] Arrange **Navigation** for Merchandising Module.
 
 ---
+
 ## Last UI Design Complete for Operation:
+
 - [x] Buyer UI
-- [x] Style UI 
+- [x] Style UI
 - [ ] Purchase Order (working)
 
-## Additional Task: 
+## Additional Task:
+
 - [x] Mockup Design Pre-Costing **Concept**
 - [x] Modification and Checking whole Mockup **Concept**
 
 ---
+
+## Update UI {August 17, 2021}
+
+- [x] Arrange **Navigation** for Merchandising Module.
+
+---
+
 ## Update UI {August 16, 2021}
 
 - [x] Navbar, Layout, Color Modification
