@@ -27,14 +27,18 @@
 
 ## Additional Task:
 
-- [x] Mockup Design Pre-Costing **Concept**
-- [x] Modification and Checking whole Mockup **Concept**
+- [x] Design **Style** Mockup with New Concept
 
 ---
 
 ## Update UI {August 17, 2021}
 
 - [x] Arrange **Navigation** for Merchandising Module.
+
+## Additional Task:
+
+- [x] Mockup Design Pre-Costing **Concept**
+- [x] Modification and Checking whole Mockup **Concept**
 
 ---
 
