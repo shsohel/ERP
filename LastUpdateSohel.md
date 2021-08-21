@@ -1,17 +1,29 @@
-## Last Update {August 18, 2021}
+## Last Update {August 21, 2021}
 
 > All Progress Task Here :
 
-- [ ] Working on **_Purchase Order_** Form UI Design
-- [ ] Working on **_Purchase Order_** Form State Management
+- [ ] **_Purchase Order_** Form UI Design
+- [ ] **_Purchase Order_** Form State Management
+
+---
+
+## Additional Task:
+
+- [x] Mockup Design Singe PO ** NewConcept**
 
 ---
 
 ## Last UI Design Complete for Operation:
 
 - [x] Buyer UI
-- [x] Style UI
-- [ ] Purchase Order (working)
+- [ ] Style UI with New Concept
+- [ ] Purchase Order New Concept
+
+---
+
+## Update UI {August 18, 2021}
+
+- [x] UI Navigation Modification
 
 ## Additional Task:
 
