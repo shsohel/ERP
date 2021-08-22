@@ -9,7 +9,7 @@
 
 ## Additional Task:
 
-- [x] Mockup Design Singe PO ** NewConcept**
+- [x] Mockup Design Style ** NewConcept**
 
 ---
 
@@ -18,6 +18,16 @@
 - [x] Buyer UI
 - [ ] Style UI with New Concept
 - [ ] Purchase Order New Concept
+
+---
+
+## Update UI {August 21, 2021}
+
+- [x] UI Navigation Modification
+
+## Additional Task:
+
+- [x] Mockup Design Singe PO ** NewConcept**
 
 ---
 
