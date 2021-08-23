@@ -1,15 +1,15 @@
-## Last Update {August 22, 2021}
+## Last Update {August 23, 2021}
 
 > All Progress Task Here :
 
 - [ ] **_Purchase Order_** Form UI Design
-- [ ] **_Style_** Form UI Design
+- [ ] **_Style_** Form UI Design(New Form)
 
 ---
 
 ## Additional Task:
 
-- [x] Mockup Design Style ** NewConcept**
+- [ ] ------
 
 ---
 
@@ -18,6 +18,16 @@
 - [x] Buyer UI
 - [ ] Style UI with New Concept
 - [ ] Purchase Order New Concept
+
+---
+
+## Update UI {August 22, 2021}
+
+- [x] UI Tamplete Modification
+
+## Additional Task:
+
+- [x] Mockup Design Style ** NewConcept**
 
 ---
 
