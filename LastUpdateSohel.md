@@ -99,7 +99,3 @@
 
 ---
 
-- Demo Link
-  [Visit](https://pixinvent.com/demo/vuexy-react-admin-dashboard-template/demo-1/dashboard/ecommerce" )
-- Tamplate Doc
-  [Visit](https://pixinvent.com/demo/vuexy-react-admin-dashboard-template/documentation/docs/)
