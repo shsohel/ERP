@@ -39,14 +39,10 @@
 ## Update UI {August 25, 2021}
 - [x] Single Style Form Design (Photo Upload Section)
 
-## Update UI {August 24, 2021}
-- [x] Single Style Form Design (Document Section Modification)
-
 ---
 
-## Update UI {August 23, 2021}
+## Update UI {August 24, 2021}
 - [x] Single Style Form Design (Document Section)
-
 
 ---
 
