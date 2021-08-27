@@ -1,23 +1,57 @@
-## Last Update {August 23, 2021}
+## Last Update {August 26, 2021}
 
 > All Progress Task Here :
 
-- [ ] **_Purchase Order_** Form UI Design
-- [ ] **_Style_** Form UI Design(New Form)
+### Configuration UI
+- [x] **_BUYER_** UI UI Design
+- [x] **_BUYER Agent_** UI UI Design
+- [ ] **_Merchandiser_** UI UI Design
+- [ ] **_Merchandiser_** UI UI Design
+- [ ] **_Session_** UI UI Design
+- [ ] **_Size and Size Groups_** UI UI Design
+- [ ] **_Color_** UI UI Design
+- [ ] **_Division_** UI UI Design
 
+### Main Operation UI
+- [x] **_Single Style_** UI UI Design
+- [ ] **_Set Style_** UI UI Design
+- [ ] **_Purchase Order_** UI UI Design
+- [ ] **_Costing_** UI Design 
+- [ ] **_Consumption_** UI Design
+- [ ] **_BOM_** UI Design
+- [ ] **_BOM_** UI Design
+- [ ] **_Budget_** UI Design
 ---
 
 ## Additional Task:
 
-- [ ] ------
+- [x] Image Hover Effect Logic Apply on Single Style Form
+---
+
+### Last UI Design Complete for Operation:
+
+- [x] Buyer UI
+- [x]  Buyer Agent UI
+- [x] Single Style UI Design
 
 ---
 
-## Last UI Design Complete for Operation:
+## Update UI {August 25, 2021}
+- [x] Single Style Form Design (Photo Upload Section)
 
-- [x] Buyer UI
-- [ ] Style UI with New Concept
-- [ ] Purchase Order New Concept
+## Update UI {August 24, 2021}
+- [x] Single Style Form Design (Document Section Modification)
+
+---
+
+## Update UI {August 23, 2021}
+- [x] Single Style Form Design (Document Section)
+
+
+---
+
+## Update UI {August 23, 2021}
+- [x] Single Style Form (Basic Info Section) 
 
 ---
 
