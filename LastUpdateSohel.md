@@ -3,19 +3,19 @@
 > All Progress Task Here :
 
 ### Configuration UI
-- [x] **_BUYER_** UI UI Design
-- [x] **_BUYER Agent_** UI UI Design
-- [ ] **_Merchandiser_** UI UI Design
-- [ ] **_Merchandiser_** UI UI Design
-- [ ] **_Session_** UI UI Design
-- [ ] **_Size and Size Groups_** UI UI Design
-- [ ] **_Color_** UI UI Design
-- [ ] **_Division_** UI UI Design
+- [x] **_BUYER_**  UI Design
+- [x] **_BUYER Agent_**  UI Design
+- [ ] **_Merchandiser_** UI Design
+- [ ] **_Merchandiser_**  UI Design
+- [ ] **_Session_** UI Design
+- [ ] **_Size and Size Groups_** UI Design
+- [ ] **_Color_** UI Design
+- [ ] **_Division_** UI Design
 
 ### Main Operation UI
-- [x] **_Single Style_** UI UI Design
-- [ ] **_Set Style_** UI UI Design
-- [ ] **_Purchase Order_** UI UI Design
+- [x] **_Single Style_** UI Design
+- [ ] **_Set Style_** UI Design
+- [ ] **_Purchase Order_** UI Design
 - [ ] **_Costing_** UI Design 
 - [ ] **_Consumption_** UI Design
 - [ ] **_BOM_** UI Design
@@ -100,6 +100,6 @@
 ---
 
 - Demo Link
-  [Visit](https://pixinvent.com/demo/vuexy-react-admin-dashboard-template/demo-1/dashboard/ecommerce)
+  [Visit](https://pixinvent.com/demo/vuexy-react-admin-dashboard-template/demo-1/dashboard/ecommerce target="_blank" )
 - Tamplate Doc
-  [Visit](https://pixinvent.com/demo/vuexy-react-admin-dashboard-template/documentation/docs/)
+  [Visit](https://pixinvent.com/demo/vuexy-react-admin-dashboard-template/documentation/docs/){target="_blank"}
