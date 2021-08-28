@@ -3,10 +3,9 @@
 > All Progress Task Here :
 
 ### Configuration UI
-- [x] **_BUYER_**  UI Design
-- [x] **_BUYER Agent_**  UI Design
+- [x] **_Buyer_**  UI Design
+- [x] **_Buyer Agent_**  UI Design
 - [ ] **_Merchandiser_** UI Design
-- [ ] **_Merchandiser_**  UI Design
 - [ ] **_Session_** UI Design
 - [ ] **_Size and Size Groups_** UI Design
 - [ ] **_Color_** UI Design
