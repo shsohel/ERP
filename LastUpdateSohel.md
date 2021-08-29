@@ -1,11 +1,11 @@
-## Last Update {August 26, 2021}
+## Last Update {August 29, 2021}
 
 > All Progress Task Here :
 
 ### Configuration UI
 - [x] **_Buyer_**  UI Design
 - [x] **_Buyer Agent_**  UI Design
-- [ ] **_Merchandiser_** UI Design
+- [x] **_Merchandiser_** UI Design
 - [ ] **_Session_** UI Design
 - [ ] **_Size and Size Groups_** UI Design
 - [ ] **_Color_** UI Design
@@ -24,16 +24,20 @@
 
 ## Additional Task:
 
-- [x] Image Hover Effect Logic Apply on Single Style Form
+- [x] Image Carousel Arrow CSS modification 
 ---
 
-### Last UI Design Complete for Operation:
-
-- [x] Buyer UI
-- [x]  Buyer Agent UI
-- [x] Single Style UI Design
 
 ---
+## Last Update {August 27, 2021}
+- [x] Single Style Form Design (Initial Structure Complete)
+- [x] Buyer Agent  UI Design
+- [x] Merchandiser UI Design
+
+---
+## Last Update {August 26, 2021}
+- [x] Single Style Form Design (Initial Structure Complete)
+
 
 ## Update UI {August 25, 2021}
 - [x] Single Style Form Design (Photo Upload Section)
