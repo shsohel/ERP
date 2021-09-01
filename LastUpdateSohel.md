@@ -1,4 +1,4 @@
-## Last Update {August 29, 2021}
+## Last Update {September 1, 2021}
 
 > All Progress Task Here :
 
@@ -7,10 +7,11 @@
 - ✅ **_Buyer_** UI Design
 - ✅ **_Buyer Agent_** UI Design
 - ✅ **_Merchandiser_** UI Design
-- ⬜️ **_Session_** UI Design
-- ⬜️ **_Size and Size Groups_** UI Design
+- ✅ **_Season_** UI Design
+- ✅ **_Size_** UI Design
+- ⬜️ **_Size Groups_** UI Design
 - ⬜️ **_Color_** UI Design
-- ⬜️ **_Division_** UI Design
+- ✅ **_Division_** UI Design
 
 ### Main Operation UI
 
@@ -30,6 +31,14 @@
 - ✅ Image Carousel Arrow CSS modification
 
 ---
+
+---
+
+## Last Update {August 31, 2021}
+
+- ✅ **_Season_** UI Design
+- ✅ **_Division_** UI Design
+- ✅ **_Set Style List_** UI Design
 
 ---
 
