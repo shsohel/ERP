@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Upload from './files/Upload';
+import CarouselCaptions from './carousel/BasicCarousel';
 
 function App() {
   return (
     <div className="App">
-      <Upload />
+      <CarouselCaptions />
     </div>
   );
 }

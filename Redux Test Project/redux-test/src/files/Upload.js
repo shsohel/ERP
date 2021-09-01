@@ -5,18 +5,21 @@ import axios from 'axios'
 import React from 'react'
 
 const uppy = new Uppy( {
+    id: 'photo',
     meta: { type: 'avatar' },
     restrictions: { maxNumberOfFiles: 1 },
     autoProceed: true,
 } )
 
+console.log( uppy )
+
 uppy.use( Tus, { endpoint: 'http://localhost:5500/photo' } )
 
 uppy.on( 'complete', ( result ) => {
     console.log( result )
-    const url = result.successful[0]
+    const url = result.successful[0].uploadID
     console.log( url )
-    axios.
+    axios.post()
     // store.dispatch( {
     //     type: 'SET_USER_AVATAR_URL',
     //     payload: { url },
@@ -24,6 +27,7 @@ uppy.on( 'complete', ( result ) => {
 } )
 
 const AvatarPicker = ( { currentAvatar } ) => {
+    console.log( currentAvatar )
     return (
         <div>
             <img src={currentAvatar} alt="Current Avatar" />
