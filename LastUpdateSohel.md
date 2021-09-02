@@ -1,4 +1,4 @@
-## Last Update {September 1, 2021}
+## Last Update {September 2, 2021}
 
 > All Progress Task Here :
 
@@ -9,14 +9,14 @@
 - ✅ **_Merchandiser_** UI Design
 - ✅ **_Season_** UI Design
 - ✅ **_Size_** UI Design
-- ⬜️ **_Size Groups_** UI Design
+- ✅ **_Size Groups_** UI Design
 - ⬜️ **_Color_** UI Design
 - ✅ **_Division_** UI Design
 
 ### Main Operation UI
 
-- ✅ **_Single Style_** UI Design
-- ⬜️ **_Set Style_** UI Design
+- ✅ **_Single Style_** UI Design(List and New Form)
+- ✅ **_Set Style_** UI Design (List and New Form)
 - ⬜️ **_Purchase Order_** UI Design
 - ⬜️ **_Costing_** UI Design
 - ⬜️ **_Consumption_** UI Design
@@ -28,12 +28,21 @@
 
 ## Additional Task:
 
-- ✅ Image Carousel Arrow CSS modification
+- ⬜️ Modal Modification
+- ⬜️ Confirm Dialogue Box
+- ⬜️ Pre-loader Design
+- ⬜️ Print or Files Generator Technology (Custom)
+- ⬜️ Instant Creatable Functionality
+- ⬜️ Validation (Various Format)
 
 ---
 
----
+## Last Update {September 1, 2021}
 
+- ✅ **_Size Group_** UI Design
+- ✅ **_Set Style New Form_** UI Design
+
+---
 ## Last Update {August 31, 2021}
 
 - ✅ **_Season_** UI Design
