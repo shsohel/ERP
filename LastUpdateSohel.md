@@ -1,8 +1,8 @@
-## Last Update {September 2, 2021}
+# Last Update {September 5, 2021}
 
 > All Progress Task Here :
 
-### Configuration UI
+## Configuration UI
 
 - ✅ **_Buyer_** UI Design
 - ✅ **_Buyer Agent_** UI Design
@@ -10,13 +10,17 @@
 - ✅ **_Season_** UI Design
 - ✅ **_Size_** UI Design
 - ✅ **_Size Groups_** UI Design
-- ⬜️ **_Color_** UI Design
-- ✅ **_Division_** UI Design
+- ✅ **_Color_** UI Design
+- ✅ **_Style Division_** UI Design
+- ⬜️ **_Style Department_** UI Design
+- ⬜️ **_Product Category_** UI Design
+- ⬜️ **_Style Category_** UI Design
 
-### Main Operation UI
+## Main Operation UI
 
 - ✅ **_Single Style_** UI Design(List and New Form)
 - ✅ **_Set Style_** UI Design (List and New Form)
+- ⬜️ **_Pre-Costing_** UI Design
 - ⬜️ **_Purchase Order_** UI Design
 - ⬜️ **_Costing_** UI Design
 - ⬜️ **_Consumption_** UI Design
@@ -26,7 +30,7 @@
 
 ---
 
-## Additional Task:
+## Additional Task
 
 - ⬜️ Modal Modification
 - ⬜️ Confirm Dialogue Box
@@ -37,13 +41,26 @@
 
 ---
 
-## Last Update {September 1, 2021}
+## Last Update {September 4, 2021}
+
+- ✅ **_Color_** UI Design
+- ✅ **_Set Style New Form_ (Set Details Section)** UI Design
+
+## Last Update {September 2, 2021}
 
 - ✅ **_Size Group_** UI Design
 - ✅ **_Set Style New Form_** UI Design
 
 ---
-## Last Update {August 31, 2021}
+
+## Last Update {September 1, 2021}
+
+- ✅ **_Size_** UI Design
+- ✅ **_Set Style New Form_** UI Design
+
+---
+
+## Last Update { August 31, 2021}
 
 - ✅ **_Season_** UI Design
 - ✅ **_Division_** UI Design
