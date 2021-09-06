@@ -10,18 +10,7 @@ module.exports = function override( config, env ) {
     } );
 
     config = rewireAliases.aliasesOptions( {
-        '@src': path.resolve( __dirname, 'src' ),
-        '@assets': path.resolve( __dirname, 'src/@core/assets' ),
-        '@components': path.resolve( __dirname, 'src/@core/components' ),
-        '@layouts': path.resolve( __dirname, 'src/@core/layouts' ),
-        '@store': path.resolve( __dirname, 'src/redux' ),
-        '@styles': path.resolve( __dirname, 'src/@core/scss' ),
-        '@configs': path.resolve( __dirname, 'src/configs' ),
-        '@utils': path.resolve( __dirname, 'src/utility/Utils' ),
-        '@custom': path.resolve( __dirname, 'src/utility/custom' ),
-        '@api': path.resolve( __dirname, 'src/services/api-end-points' ),
-        '@services': path.resolve( __dirname, 'src/services' ),
-        '@hooks': path.resolve( __dirname, 'src/utility/hooks' )
+        '@src': path.resolve( __dirname, 'src' )
     } )( config, env );
 
     config = new SassRuleRewire()
