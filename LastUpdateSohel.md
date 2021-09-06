@@ -1,4 +1,4 @@
-# Last Update {September 5, 2021}
+# Last Update {September 6, 2021}
 
 > All Progress Task Here :
 
@@ -33,7 +33,7 @@
 ## Additional Task
 
 - ⬜️ Modal Modification
-- ⬜️ Confirm Dialogue Box
+- ✅ Confirm Dialogue Box
 - ⬜️ Pre-loader Design
 - ⬜️ Print or Files Generator Technology (Custom)
 - ⬜️ Instant Creatable Functionality
@@ -41,10 +41,18 @@
 
 ---
 
+## Last Update {September 5, 2021}
+
+- ✅ **_Pre-Costing List_** UI Design
+- ✅ **_Color_** UI Design
+- ✅ Confirm Dialogue Box Design
+
 ## Last Update {September 4, 2021}
 
 - ✅ **_Color_** UI Design
 - ✅ **_Set Style New Form_ (Set Details Section)** UI Design
+
+---
 
 ## Last Update {September 2, 2021}
 
