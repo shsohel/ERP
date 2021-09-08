@@ -14,13 +14,15 @@
 - ✅ **_Style Division_** UI Design
 - ✅ **_Style Department_** UI Design
 - ✅ **_Product Category_** UI Design
-- ✅ **_Style Category_** UI Design
+- ⬜️ **_Buyer Product Developer_** UI Design
+- ⬜️ **_Sample Assignee_** UI Design
+- ⬜️ **_Production Process_** UI Design
 
 ## Main Operation UI
 
 - ✅ **_Single Style_** UI Design(List and New Form)
 - ✅ **_Set Style_** UI Design (List and New Form)
-- ⬜️ **_Pre-Costing_** UI Design
+- ⬜️ **_Pre-Costing_** (Working) UI Design
 - ⬜️ **_Purchase Order_** UI Design
 - ⬜️ **_Costing_** UI Design
 - ⬜️ **_Consumption_** UI Design
@@ -38,6 +40,7 @@
 - ⬜️ Print or Files Generator Technology (Custom)
 - ⬜️ Instant Creatable Functionality
 - ⬜️ Validation (Various Format)
+- ⬜️ Image View Light box
 
 ---
 
@@ -45,7 +48,7 @@
 
 - ✅ **_Pre-Costing Form _**( Working) UI Design
 - ✅ **_Style Department_** UI Design
-- ✅**_Product Category_** UI Design
+- ✅ **_Product Category_** UI Design
 - ✅ Confirm Dialogue Box Design
 
 ## Last Update {September 5, 2021}
