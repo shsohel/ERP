@@ -1,4 +1,4 @@
-# Last Update {September 7, 2021}
+# Last Update {September 8, 2021}
 
 > All Progress Task Here :
 
@@ -36,13 +36,20 @@
 
 - ✅ Modal Modification
 - ✅ Confirm Dialogue Box
+- ✅ Collapsible Drawer Design
 - ⬜️ Pre-loader Design
 - ⬜️ Print or Files Generator Technology (Custom)
 - ⬜️ Instant Creatable Functionality
 - ⬜️ Validation (Various Format)
-- ⬜️ Image View Light box
+- ⬜️ Image View Light box (Working)
 
 ---
+
+## Last Update {September 7, 2021}
+
+- ✅ **_Pre-Costing Form _**( Working) UI Design
+- ✅ **_Modal_** Modification
+- ✅ **_Product Style Category_** UI Design
 
 ## Last Update {September 6, 2021}
 
