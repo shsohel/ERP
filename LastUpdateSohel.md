@@ -1,4 +1,4 @@
-# Last Update {September 6, 2021}
+# Last Update {September 7, 2021}
 
 > All Progress Task Here :
 
@@ -12,9 +12,9 @@
 - ✅ **_Size Groups_** UI Design
 - ✅ **_Color_** UI Design
 - ✅ **_Style Division_** UI Design
-- ⬜️ **_Style Department_** UI Design
-- ⬜️ **_Product Category_** UI Design
-- ⬜️ **_Style Category_** UI Design
+- ✅**_Style Department_** UI Design
+- ✅**_Product Category_** UI Design
+- ✅ **_Style Category_** UI Design
 
 ## Main Operation UI
 
@@ -32,7 +32,7 @@
 
 ## Additional Task
 
-- ⬜️ Modal Modification
+- ✅ Modal Modification
 - ✅ Confirm Dialogue Box
 - ⬜️ Pre-loader Design
 - ⬜️ Print or Files Generator Technology (Custom)
@@ -40,6 +40,13 @@
 - ⬜️ Validation (Various Format)
 
 ---
+
+## Last Update {September 6, 2021}
+
+- ✅ **_Pre-Costing Form _**( Working) UI Design
+- ✅ **_Style Department_** UI Design
+- ✅**_Product Category_** UI Design
+- ✅ Confirm Dialogue Box Design
 
 ## Last Update {September 5, 2021}
 
