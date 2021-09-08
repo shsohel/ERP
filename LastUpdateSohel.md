@@ -12,8 +12,8 @@
 - ✅ **_Size Groups_** UI Design
 - ✅ **_Color_** UI Design
 - ✅ **_Style Division_** UI Design
-- ✅**_Style Department_** UI Design
-- ✅**_Product Category_** UI Design
+- ✅ **_Style Department_** UI Design
+- ✅ **_Product Category_** UI Design
 - ✅ **_Style Category_** UI Design
 
 ## Main Operation UI
