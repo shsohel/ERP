@@ -1,4 +1,4 @@
-# Last Update {September 8, 2021}
+# Last Update {September 11, 2021}
 
 > All Progress Task Here :
 
@@ -14,8 +14,8 @@
 - ✅ **_Style Division_** UI Design
 - ✅ **_Style Department_** UI Design
 - ✅ **_Product Category_** UI Design
-- ⬜️ **_Buyer Product Developer_** UI Design
-- ⬜️ **_Sample Assignee_** UI Design
+- ⬜️ **_Buyer Product Developer_** UI Design (working)
+- ✅ **_Sample Assignee_** UI Design
 - ⬜️ **_Production Process_** UI Design
 
 ## Main Operation UI
@@ -41,7 +41,21 @@
 - ⬜️ Print or Files Generator Technology (Custom)
 - ⬜️ Instant Creatable Functionality
 - ⬜️ Validation (Various Format)
-- ⬜️ Image View Light box (Working)
+- ✅ Image View Light box
+
+---
+
+## Last Update {September 9, 2021}
+
+- ✅ **_Pre-Costing Form _**( Details) UI Design
+- ✅ **_Filtering Sorting Pagination Modification (Master Data)_** UI Design
+
+---
+
+## Last Update {September 8, 2021}
+
+- ✅ **_Pre-Costing Form _**( Details) UI Design
+- ✅ **_Sample Assignee_** UI Design
 
 ---
 
@@ -51,6 +65,8 @@
 - ✅ **_Modal_** Modification
 - ✅ **_Product Style Category_** UI Design
 
+---
+
 ## Last Update {September 6, 2021}
 
 - ✅ **_Pre-Costing Form _**( Working) UI Design
@@ -58,11 +74,15 @@
 - ✅ **_Product Category_** UI Design
 - ✅ Confirm Dialogue Box Design
 
+---
+
 ## Last Update {September 5, 2021}
 
 - ✅ **_Pre-Costing List_** UI Design
 - ✅ **_Color_** UI Design
 - ✅ Confirm Dialogue Box Design
+
+---
 
 ## Last Update {September 4, 2021}
 
