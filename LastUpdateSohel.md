@@ -1,4 +1,4 @@
-# Last Update {September 11, 2021}
+# Last Update {September 13, 2021}
 
 > All Progress Task Here :
 
@@ -14,7 +14,7 @@
 - ✅ **_Style Division_** UI Design
 - ✅ **_Style Department_** UI Design
 - ✅ **_Product Category_** UI Design
-- ⬜️ **_Buyer Product Developer_** UI Design (working)
+- ✅ **_Buyer Product Developer_** UI Design
 - ✅ **_Sample Assignee_** UI Design
 - ⬜️ **_Production Process_** UI Design
 
@@ -42,26 +42,45 @@
 - ⬜️ Instant Creatable Functionality
 - ⬜️ Validation (Various Format)
 - ✅ Image View Light box
+- ✅ **_CM Calculation_** UI Design
+- ✅ **_Size Ration_** UI Design
+- ✅ **_Color Size Combination_** UI Design
+
+---
+
+## Last Update {September 12, 2021}
+
+- ✅ **_CM Calculation_** UI Design
+- ✅ **_Size Ration_** UI Design
+- ✅ **_Color Size Combination_** UI Design
+- ✅ **_Buyer Product Developer_** UI Design
+
+---
+
+## Last Update {September 11, 2021}
+
+- ✅ **_Pre-Costing Form_** UI Design
+- ✅ **_Buyer Product Developer_** UI Design
 
 ---
 
 ## Last Update {September 9, 2021}
 
-- ✅ **_Pre-Costing Form _**( Details) UI Design
+- ✅ **_Pre-Costing Form_**( Details) UI Design
 - ✅ **_Filtering Sorting Pagination Modification (Master Data)_** UI Design
 
 ---
 
 ## Last Update {September 8, 2021}
 
-- ✅ **_Pre-Costing Form _**( Details) UI Design
+- ✅ **_Pre-Costing Form_**( Details) UI Design
 - ✅ **_Sample Assignee_** UI Design
 
 ---
 
 ## Last Update {September 7, 2021}
 
-- ✅ **_Pre-Costing Form _**( Working) UI Design
+- ✅ **_Pre-Costing Form_**( Working) UI Design
 - ✅ **_Modal_** Modification
 - ✅ **_Product Style Category_** UI Design
 
@@ -69,7 +88,7 @@
 
 ## Last Update {September 6, 2021}
 
-- ✅ **_Pre-Costing Form _**( Working) UI Design
+- ✅ **_Pre-Costing Form_**( Working) UI Design
 - ✅ **_Style Department_** UI Design
 - ✅ **_Product Category_** UI Design
 - ✅ Confirm Dialogue Box Design
