@@ -1,4 +1,4 @@
-# Last Update {September 13, 2021}
+# Last Update {September 15, 2021}
 
 > All Progress Task Here :
 
@@ -17,13 +17,16 @@
 - ✅ **_Buyer Product Developer_** UI Design
 - ✅ **_Sample Assignee_** UI Design
 - ⬜️ **_Production Process_** UI Design
+- ⬜️ **_Role_** UI Design
+- ⬜️ **_Role Permission_** UI Design
+- ⬜️ **_User_** UI Design
 
 ## Main Operation UI
 
 - ✅ **_Single Style_** UI Design(List and New Form)
 - ✅ **_Set Style_** UI Design (List and New Form)
-- ⬜️ **_Pre-Costing_** (Working) UI Design
-- ⬜️ **_Purchase Order_** UI Design
+- ✅ **_Pre-Costing_** UI Design
+- ⬜️ **_Purchase Order_** UI Design (**Working on**)
 - ⬜️ **_Costing_** UI Design
 - ⬜️ **_Consumption_** UI Design
 - ⬜️ **_BOM_** UI Design
@@ -48,11 +51,24 @@
 
 ---
 
+## Last Update {September 14, 2021}
+
+- ✅ **_Pre-Costing UI_ Functionality** UI Design
+- ✅ **_Color Size Combination_** UI Design
+
+---
+
+## Last Update {September 13, 2021}
+
+- ✅ **_Pre-Costing UI_** UI Design
+- ✅ **_Color Size Combination_** UI Design
+
+---
+
 ## Last Update {September 12, 2021}
 
 - ✅ **_CM Calculation_** UI Design
 - ✅ **_Size Ration_** UI Design
-- ✅ **_Color Size Combination_** UI Design
 - ✅ **_Buyer Product Developer_** UI Design
 
 ---
