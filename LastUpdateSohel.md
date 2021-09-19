@@ -1,4 +1,4 @@
-# Last Update {September 15, 2021}
+# Last Update {September 19, 2021}
 
 > All Progress Task Here :
 
@@ -20,6 +20,7 @@
 - ⬜️ **_Role_** UI Design
 - ⬜️ **_Role Permission_** UI Design
 - ⬜️ **_User_** UI Design
+- ⬜️ **_Module_** UI Design
 
 ## Main Operation UI
 
@@ -48,13 +49,50 @@
 - ✅ **_CM Calculation_** UI Design
 - ✅ **_Size Ration_** UI Design
 - ✅ **_Color Size Combination_** UI Design
+- ✅ **_Purchase Order Style Details Form_** UI Design
+- ✅ **_CUSTOM COLLAPSIBLE TABLE_** UI Design
+
+---
+
+## Last Update {September 18, 2021}
+
+- ✅ **_PO FORM_ Functionality** UI Design
+- ✅ **_PO CUSTOM COLLAPSIBLE TABLE_** UI Design
+- ✅ **_Purchase Order Style Details Form_**
+
+### API Integrated From UI (18/09/21):
+
+- ✅ Merchandiser API GET, Buyer Agent API PUT
+
+---
+
+## Last Update {September 16, 2021}
+
+- ✅ **_PO_ Master Data Input** UI Design
+
+### API Integrated From UI (16/09/21):
+
+- ✅ Buyer,Buyer Agent API GET and POST
+
+---
+
+## Last Update {September 15, 2021}
+
+- ✅ **_PO Redux_ Functionality**
+
+### Additional Task (15/09/21):
+
+- ✅ User Role Management Mockup design
 
 ---
 
 ## Last Update {September 14, 2021}
 
 - ✅ **_Pre-Costing UI_ Functionality** UI Design
-- ✅ **_Color Size Combination_** UI Design
+
+### Additional Task (14/09/21):
+
+- ✅ User and Module Mockup Design
 
 ---
 
