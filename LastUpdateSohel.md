@@ -1,4 +1,4 @@
-# Last Update {September 19, 2021}
+# Last Update {September 21, 2021}
 
 > All Progress Task Here :
 
@@ -17,10 +17,10 @@
 - ✅ **_Buyer Product Developer_** UI Design
 - ✅ **_Sample Assignee_** UI Design
 - ⬜️ **_Production Process_** UI Design
-- ⬜️ **_Role_** UI Design
+- ✅**_Role_** UI Design
 - ⬜️ **_Role Permission_** UI Design
-- ⬜️ **_User_** UI Design
-- ⬜️ **_Module_** UI Design
+- ✅ **_User_** UI Design
+- ✅ **_Module_** UI Design
 
 ## Main Operation UI
 
@@ -41,9 +41,9 @@
 - ✅ Modal Modification
 - ✅ Confirm Dialogue Box
 - ✅ Collapsible Drawer Design
-- ⬜️ Pre-loader Design
+- ⬜️ Pre-loader Design (Working)
 - ⬜️ Print or Files Generator Technology (Custom)
-- ⬜️ Instant Creatable Functionality
+- ⬜️ Instant Creatable Functionality (Working)
 - ⬜️ Validation (Various Format)
 - ✅ Image View Light box
 - ✅ **_CM Calculation_** UI Design
@@ -51,6 +51,20 @@
 - ✅ **_Color Size Combination_** UI Design
 - ✅ **_Purchase Order Style Details Form_** UI Design
 - ✅ **_CUSTOM COLLAPSIBLE TABLE_** UI Design
+
+---
+
+## Last Update {September 20, 2021}
+
+- ✅ **_User_** UI Design
+- ✅ **_Purchase Order Validation_** UI Design
+
+---
+
+## Last Update {September 19, 2021}
+
+- ✅ **_Module_** UI Design
+- ✅ **_Role_** UI Design
 
 ---
 
