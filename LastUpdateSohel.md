@@ -1,4 +1,12 @@
-# Last Update {September 21, 2021}
+# Last Update {September 22, 2021}
+
+<!--
+<body>
+<script>
+      let d = new Date();
+      document.body.innerHTML = "<h1>Today's date is " + d + "</h1>"
+  </script>
+</body> -->
 
 > All Progress Task Here :
 
@@ -21,13 +29,15 @@
 - ⬜️ **_Role Permission_** UI Design
 - ✅ **_User_** UI Design
 - ✅ **_Module_** UI Design
+- ⬜️ **_Buyer Department_** UI Design
 
 ## Main Operation UI
 
 - ✅ **_Single Style_** UI Design(List and New Form)
 - ✅ **_Set Style_** UI Design (List and New Form)
 - ✅ **_Pre-Costing_** UI Design
-- ⬜️ **_Purchase Order_** UI Design (**Working on**)
+- ✅ **_Purchase Order_** UI Design (**Primary Design**)
+- ⬜️ **_Packaging_** UI Design (**On Process**)
 - ⬜️ **_Costing_** UI Design
 - ⬜️ **_Consumption_** UI Design
 - ⬜️ **_BOM_** UI Design
@@ -43,7 +53,7 @@
 - ✅ Collapsible Drawer Design
 - ⬜️ Pre-loader Design (Working)
 - ⬜️ Print or Files Generator Technology (Custom)
-- ⬜️ Instant Creatable Functionality (Working)
+- ✅ Instant Creatable Functionality
 - ⬜️ Validation (Various Format)
 - ✅ Image View Light box
 - ✅ **_CM Calculation_** UI Design
@@ -53,6 +63,11 @@
 - ✅ **_CUSTOM COLLAPSIBLE TABLE_** UI Design
 
 ---
+
+## Last Update {September 21, 2021}
+
+- ✅ **_Purchase Order (Primary)_** UI Design
+- ✅ **_Buyer Product Development_** UI Design
 
 ## Last Update {September 20, 2021}
 
