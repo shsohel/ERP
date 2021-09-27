@@ -1,12 +1,4 @@
-# Last Update {September 22, 2021}
-
-<!--
-<body>
-<script>
-      let d = new Date();
-      document.body.innerHTML = "<h1>Today's date is " + d + "</h1>"
-  </script>
-</body> -->
+# Last Update {September 27, 2021}
 
 > All Progress Task Here :
 
@@ -37,7 +29,7 @@
 - ✅ **_Set Style_** UI Design (List and New Form)
 - ✅ **_Pre-Costing_** UI Design
 - ✅ **_Purchase Order_** UI Design (**Primary Design**)
-- ⬜️ **_Packaging_** UI Design (**On Process**)
+- ✅ **_Packaging_** UI Design (Single Packaging UI Design)
 - ⬜️ **_Costing_** UI Design
 - ⬜️ **_Consumption_** UI Design
 - ⬜️ **_BOM_** UI Design
