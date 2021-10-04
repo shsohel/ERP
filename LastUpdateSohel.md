@@ -1,4 +1,4 @@
-# Last Update {September 27, 2021}
+# Last Update {October 04, 2021}
 
 > All Progress Task Here :
 
@@ -14,6 +14,7 @@
 - ✅ **_Style Division_** UI Design
 - ✅ **_Style Department_** UI Design
 - ✅ **_Product Category_** UI Design
+- ✅ **_Style Category_** UI Design
 - ✅ **_Buyer Product Developer_** UI Design
 - ✅ **_Sample Assignee_** UI Design
 - ⬜️ **_Production Process_** UI Design
@@ -21,7 +22,7 @@
 - ⬜️ **_Role Permission_** UI Design
 - ✅ **_User_** UI Design
 - ✅ **_Module_** UI Design
-- ⬜️ **_Buyer Department_** UI Design
+- ✅ **_Buyer Department_** UI Design
 
 ## Main Operation UI
 
@@ -29,7 +30,7 @@
 - ✅ **_Set Style_** UI Design (List and New Form)
 - ✅ **_Pre-Costing_** UI Design
 - ✅ **_Purchase Order_** UI Design (**Primary Design**)
-- ✅ **_Packaging_** UI Design (Single Packaging UI Design)
+- ✅ **_Packaging_** UI Design (Modification on Process)
 - ⬜️ **_Costing_** UI Design
 - ⬜️ **_Consumption_** UI Design
 - ⬜️ **_BOM_** UI Design
@@ -45,7 +46,7 @@
 - ✅ Collapsible Drawer Design
 - ⬜️ Pre-loader Design (Working)
 - ⬜️ Print or Files Generator Technology (Custom)
-- ✅ Instant Creatable Functionality
+- ✅ Instant Creatable Functionality(Two way)
 - ⬜️ Validation (Various Format)
 - ✅ Image View Light box
 - ✅ **_CM Calculation_** UI Design
