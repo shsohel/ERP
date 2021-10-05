@@ -1,4 +1,4 @@
-# Last Update {October 04, 2021}
+# Last Update {October 05, 2021}
 
 > All Progress Task Here :
 
@@ -54,6 +54,18 @@
 - ✅ **_Color Size Combination_** UI Design
 - ✅ **_Purchase Order Style Details Form_** UI Design
 - ✅ **_CUSTOM COLLAPSIBLE TABLE_** UI Design
+
+---
+
+## Last Update {October 05, 2021}
+
+- ✅ **_Modified Packaging_** UI Design
+
+---
+
+## Last Update {October 04, 2021}
+
+- ✅ **_Modified Pre-Costing _** UI Design
 
 ---
 
