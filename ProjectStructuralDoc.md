@@ -140,10 +140,8 @@
    1.**form** ফোল্ডারটিতে ফর্ম রিলেটেড ফাইল থাকবে । যেমন : **BuyerAddForm.js**, **BuyerEditForm.js**.
 
    2. **list** ফোল্ডারটিতে **Table** রিলেটেড ফাইল থাকে । যেমন : **BuyerList.js**, **BuyerTableColumns.js**, **BuyerExandRow.js**, **index.js**
-      . **index.js** ফাইলে **BuyerList** কে নেস্টেড করা হয়েছে। এবং এখানে **scss** ইমপোর্ট করা হয়েছে যাতে বাকি লিস্ট ফর্মে একই CSS পায়।
-      2. **BuyerTableColumns** টিতে কলামগুলোকে Array আকারে ডিকলার করে এর List State (**buyers**) এর সাথে কম্বাইন করা হয়েছে।
-         তাছড়া এখানে **Details**, **Edit**, **Delete** এর **Action** গুলোকে কল করা হয়েছে।
-      3. **BuyerExandRow.js** দ্বারা একটা Row এর আরো ডিটেইল্স থাকলে তা দেখানো যাবে। মানে অতিরিক্ত ডাটা এখানে দেখানো যাবে।
+      . **index.js** ফাইলে **BuyerList** কে নেস্টেড করা হয়েছে। এবং এখানে **scss** ইমপোর্ট করা হয়েছে যাতে বাকি লিস্ট ফর্মে একই CSS পায়। 2. **BuyerTableColumns** টিতে কলামগুলোকে Array আকারে ডিকলার করে এর List State (**buyers**) এর সাথে কম্বাইন করা হয়েছে।
+      তাছড়া এখানে **Details**, **Edit**, **Delete** এর **Action** গুলোকে কল করা হয়েছে। 3. **BuyerExandRow.js** দ্বারা একটা Row এর আরো ডিটেইল্স থাকলে তা দেখানো যাবে। মানে অতিরিক্ত ডাটা এখানে দেখানো যাবে।
    3. **store** ফোল্ডারটিতে তিনটি নেস্টেড ফোল্ডার আছে যা **Redux** এর **ActionType**, **Action**, **Reducer** কে **Implement**
       করা হয়েছে।
       1. **actionTypes** ফোল্ডারটিতে একশনের টাইপগুলোকে ডিকলার করা হয়েছে।
@@ -155,3 +153,7 @@
 
 1.  এটিতে বিভিন্ন ডিকেটরিগুলোকে শর্ট করা হয়েছে; ('@components': 'src/@core/components' ),)
 2.  তবে এর মধ্যে আগের থেকে আছে এমন কিছু মডিফাই করা যাবে না।
+
+## Role :
+
+1. Local Funtion এর ক্ষেত্রে অবশ্যই Prefix হিসেবে handle ব্যবহার করাতে হবে। যেমন : handleCancel, handleRemove , handleSubmit ইত্যাদি
